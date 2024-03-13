@@ -5,5 +5,7 @@ objectives, the project aims to contribute to the growing field of sentiment ana
 Goals and objectives are as follows:
 
 • Construct an analytical model designed to process a substantial corpus of textual data, emphasizing scalability to adapt to increasing data volumes while maintaining computational efficiency, reflecting an advanced application of big data analytics.
+
 • Attain a good level of accuracy in categorizing consumer reviews into defined sentiment classes (positive, negative, neutral), underscoring the model's ability to discern intricate sentiment nuances inherent in consumer feedback.
+
 • Systematically evaluate and contrast various machine learning algorithms within the Spark ML library, with an emphasis on identifying the most effective model for sentiment analysis in large datasets.
